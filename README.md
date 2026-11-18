@@ -1,8 +1,8 @@
-# Autopilot Sosmed
+# PostFlow
 
 Dashboard web layanan autopilot upload media sosial — **tanpa password, tanpa serahkeun akun**. Klien cukup klik "Hubungkan Akun" (OAuth/token resmi), sistem yang mengunggah, menjadwalkan, dan melaporkan.
 
-Web app berbahasa Indonesia: alur klien 6 langkah, alur token 8 langkah, cara kerja auto caption AI, contoh posting produk Instagram, perbandingan platform (IG/YouTube/TikTok), tahapan usaha, syarat full otomatis, blueprint repo, contoh paket layanan, dan Tanya-Jawab.
+Web app berbahasa Indonesia: cara kerja 5 langkah, hubungkan akun tanpa password, pilihan konten (dari kamu / dibuatkan), paket harga variasi, cara order, dan Tanya-Jawab.
 
 ## Cara pakai
 
